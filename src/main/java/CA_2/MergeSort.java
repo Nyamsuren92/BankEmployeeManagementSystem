@@ -10,6 +10,7 @@ import java.util.ArrayList;
  *
  * @author nyamka.t
  */
+// Merge Sort algorithm implementation
 public class MergeSort {
 
     // Recursive merge sort method

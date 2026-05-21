@@ -9,6 +9,7 @@ package CA_2;
  *
  * @author nyamka.t
  */
+// Binary tree structure for employee hierarchy
 public class BinaryTree {
 
     TreeNode root;
